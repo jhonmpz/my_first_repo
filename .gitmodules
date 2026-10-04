@@ -1,0 +1,3 @@
+[submodule "second-brain-home"]
+	path = second-brain-home
+	url = git@github.com:crouyet/second-brain-home.git
